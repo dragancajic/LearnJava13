@@ -42,5 +42,6 @@ public class ControlFlow {
 		// If the user's input does not match the correctAnswer...
 		// then the user is incorrect and we want to print out a message saying
 		// that the user is incorrect as well as what the correct choice was.
+		scanner.close();
 	}
 }
